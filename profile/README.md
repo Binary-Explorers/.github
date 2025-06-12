@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-website.com/path-to-logo.png" alt="Binary Explorers Logo" width="180">
+  <img src="profile/Binary_Explorers.png" alt="Binary Explorers Logo" width="180">
 </p>
 
 # Binary Explorers
