@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Binary_Explorers.png" alt="Binary Explorers Logo" width="200">
+<img src="https://cdn.imagine.art/processed/5ccf1b61-8984-4e30-a90f-9fd76a3f3f60" alt="Binary Explorers Logo" width="200">
 </p>
 
 <div align="center">
